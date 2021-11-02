@@ -10,7 +10,7 @@
 _Backend_
 
 ```
-cd backend
+cd backend/functions
 npm install
 npm run serve
 ```
